@@ -15,6 +15,7 @@ To use the OpenWeatherMap API, you need to obtain an API key. Follow these steps
 * In the project directory, locate the script.js file. Inside this file, you will find a constant called API_KEY. Replace the placeholder value 'YOUR_API_KEY' with your actual API key obtained from OpenWeatherMap.
 
 ```
+
 const API_KEY = 'YOUR_API_KEY';
 ```
-
+hosted on netlify:https://fantastic-boba-2212ce.netlify.app/
